@@ -4,7 +4,7 @@
         <title>HackerOne Platform Changelog</title>
         <link>https://docs.hackerone.com/changelog</link>
         <description>See what's changed or new in HackerOne.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 23:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 20:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>All rights reserved 2021, HackerOne</copyright>
@@ -61,6 +61,32 @@
 /static/5b2bf81a05f98e1c52358afa88441eca/1d69c/feb_2021_add-reference-button.png 750w,
 /static/5b2bf81a05f98e1c52358afa88441eca/00d43/feb_2021_add-reference-button.png 1000w,
 /static/5b2bf81a05f98e1c52358afa88441eca/8affb/feb_2021_add-reference-button.png 1254w"
+        sizes="(max-width: 500px) 100vw, 500px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+    </span></p>
+<h3 id="filter-programs-by-bounty-splitting" style="position:relative;"><a href="#filter-programs-by-bounty-splitting" aria-label="filter programs by bounty splitting permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Filter Programs by Bounty Splitting</h3>
+<p>You can now see which programs enable you to collaborate with other hackers in submitting vulnerabilities with the new <em>Bounty splitting</em> filter and label in the <a href="https://hackerone.com/directory/programs">Directory</a>.</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; "
+    >
+      <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 32.800000000000004%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAABJElEQVQoz11Ri26DMAzk/z+yU9uVQiDkSQIJcLMNmrqBTmdMfGc7jdYa3vu/cE7YfXAIAfM8C3JOiDFKbl1XlFIEHDdt26Lve4zjiGEYhLWeKB6h1PmtlIIj4XCJhBCvOIpwSvnidApyF5xk90gw1p7O24ay71jIfVkLJmPhSWQkQ2MdrPNQZBznhHfXCzf3+x1d18mY7MBOerKwYYNpqduvb5SYsANYlgUznalktJHRxrxdTN+cbwwJjWbC693CUme1VuluP4DiE9bRYssrDnqlkP7vVMz4/3CumR4vDLcnuttDRpaDx0Hd0vKpo0jMF8e7PPdLsTY0opKx5aIyraZyGQs+35geLYLSMm7O+bdLBq/hEzPt2sUVXrBc5yrdcqW6gh/M3Rt8vfsHawAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="bounty splitting filter and label"
+        title="bounty splitting filter and label"
+        src="/static/05c7ad974eb002c47345a00b468a7a3a/0b533/feb_2021_bounty-splitting-filter.png"
+        srcset="/static/05c7ad974eb002c47345a00b468a7a3a/fac75/feb_2021_bounty-splitting-filter.png 125w,
+/static/05c7ad974eb002c47345a00b468a7a3a/63868/feb_2021_bounty-splitting-filter.png 250w,
+/static/05c7ad974eb002c47345a00b468a7a3a/0b533/feb_2021_bounty-splitting-filter.png 500w,
+/static/05c7ad974eb002c47345a00b468a7a3a/1d69c/feb_2021_bounty-splitting-filter.png 750w,
+/static/05c7ad974eb002c47345a00b468a7a3a/00d43/feb_2021_bounty-splitting-filter.png 1000w,
+/static/05c7ad974eb002c47345a00b468a7a3a/29007/feb_2021_bounty-splitting-filter.png 1600w"
         sizes="(max-width: 500px) 100vw, 500px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
