@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.hackerone.com/changelog</id>
     <title>HackerOne Platform Changelog</title>
-    <updated>2021-03-02T20:32:53.992Z</updated>
+    <updated>2021-03-03T16:29:41.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>HackerOne</name>
@@ -48,7 +48,7 @@
         loading="lazy"
       />
     </span></p>
-<h3 id="add-reference-to-issue-tracker" style="position:relative;"><a href="#add-reference-to-issue-tracker" aria-label="add reference to issue tracker permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Add reference to issue tracker</h3>
+<h3 id="add-reference-to-issue-tracker" style="position:relative;"><a href="#add-reference-to-issue-tracker" aria-label="add reference to issue tracker permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Add Reference to Issue Tracker</h3>
 <p>We've updated the reference ID field for adding integrations with a new <strong>Add reference to issue tracker</strong> button to more clearly guide users with adding a reference to their integrated issue tracker.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
